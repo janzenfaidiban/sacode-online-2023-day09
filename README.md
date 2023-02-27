@@ -20,4 +20,9 @@ Silahkan lihat demo hasil belajar di sini : https://janzenfaidiban.github.io/sac
 
 Berikut ini adalah screenshot hasil belajar kali ini
 
-coming soon...
+SCREENSHOT INDEX 1
+<img src="__screenshots/1.png">
+
+SCREENSHOT INDEX 2
+
+<img src="__screenshots/2.png">
